@@ -22,6 +22,7 @@ class Solution {
                 }
             }
         }
+        
         return pi[newString.length() - 1];
     }
 }
